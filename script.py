@@ -7,4 +7,7 @@ if motor3 <= 90:
 else: 
  print ("no esta en pocision")
  
-
+ if motor1 == 1:
+     print ("el brazo esta subiendo")
+else:
+     print ("el brazo esta estatico")
