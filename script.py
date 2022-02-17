@@ -11,3 +11,7 @@ else:
      print ("el brazo esta subiendo")
 else:
      print ("el brazo esta estatico")
+if motor2 == 1:
+    print ("Gancho abierto")
+else:
+    print ("Gancho cerrado")
